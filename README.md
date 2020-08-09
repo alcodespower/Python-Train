@@ -9,6 +9,7 @@
 |--  chapter 2 __init__.py
 |--  chapter 3 __del__.py
 |--  chapter 4 __call__.py
+|__更新README.md
 ```
 
 ## Day 2
