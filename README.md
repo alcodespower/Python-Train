@@ -22,5 +22,5 @@ per1 < per2    |	__lt__
 per1 >= per2  |	__ge__
 per1 <= per2  |   __le__
 ```
-代码见 `Day 2 - > ``chapter 1 __eq__.py`
+代码见 `Day 2 - > chapter 1 __eq__.py`
  
