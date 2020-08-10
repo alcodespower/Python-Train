@@ -45,6 +45,7 @@
 |/|	`__truediv__`|
 |%|	`__mod__`|
 |**|	`__pow__`|
+
 代码见 `Day 2 - > chapter 2 __add__.py`   
 
 类型转换：
@@ -55,8 +56,10 @@
 |float|`__float__`|
 |str|`__str__`|
 |bool|`__bool__`|
-代码见 `Day 2 - > chapter 3 __int__.py`   
-小结：
+
+代码见 `Day 2 - > chapter 3 __int__.py` 
+  
+**小结：**
  ```
 |- Day 2 (2020.08.10)
 |--  chapter 1 __eq__.py
