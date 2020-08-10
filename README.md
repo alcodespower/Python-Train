@@ -13,4 +13,13 @@
 ```
 
 ## Day 2
-待继续
+```
+比较运算符	调用的方法
+per1 == per2  |	__eq__
+per1 != per2   |	__ne__
+per1 > per2    |   __gt__
+per1 < per2    |	__lt__
+per1 >= per2  |	__ge__
+per1 <= per2  |   __le__
+```
+代码见 `Day 2 - > ``chapter 1 __eq__.py`
